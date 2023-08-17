@@ -1,0 +1,14 @@
+1. what is jdk,jre and jvm and what are their uses?
+2. why java is platform independent with brief explanation?
+3. write a program using operators?
+4. write a program on greatest of 3 numbers?
+5. write a program on fibonacci series in java?
+6. what is string, string objects and string methods?
+7. what is an array?
+8. write a program to print all the numbers except divisible by 4 in between two numbers?
+
+09-07-23
+
+1. Swapping of 2 numbers(with & without temp, with bitwise xor)
+2. String(reverse, word to word reverse, deleting duplicate words, counting specific letter, del specific    letter, counting vowels & consonanats)
+3. OOPS Concept(class, object, polymorphism, inheritance, encapsulation, abstraction, interface)
